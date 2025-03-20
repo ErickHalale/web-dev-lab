@@ -1,2 +1,4 @@
 We learnt how to install Visual Studio Code, Git, and Node.js, creating and running a basic HTML webpage, and using GitHub for version control.
 we also learn important concepts like branching, committing changes, creating pull requests, and collaborating on projects.
+took note of the push and pull effect of GitHub and VS Code
+this is only to confirm the changes
